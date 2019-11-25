@@ -1,0 +1,11 @@
+C:\Users\Alain\Desktop\BANKAPP\BANKAPP\BANKAPP\bin\Debug\netcoreapp3.0\BANKAPP.exe
+C:\Users\Alain\Desktop\BANKAPP\BANKAPP\BANKAPP\bin\Debug\netcoreapp3.0\BANKAPP.deps.json
+C:\Users\Alain\Desktop\BANKAPP\BANKAPP\BANKAPP\bin\Debug\netcoreapp3.0\BANKAPP.runtimeconfig.json
+C:\Users\Alain\Desktop\BANKAPP\BANKAPP\BANKAPP\bin\Debug\netcoreapp3.0\BANKAPP.runtimeconfig.dev.json
+C:\Users\Alain\Desktop\BANKAPP\BANKAPP\BANKAPP\bin\Debug\netcoreapp3.0\BANKAPP.dll
+C:\Users\Alain\Desktop\BANKAPP\BANKAPP\BANKAPP\bin\Debug\netcoreapp3.0\BANKAPP.pdb
+C:\Users\Alain\Desktop\BANKAPP\BANKAPP\BANKAPP\obj\Debug\netcoreapp3.0\BANKAPP.csprojAssemblyReference.cache
+C:\Users\Alain\Desktop\BANKAPP\BANKAPP\BANKAPP\obj\Debug\netcoreapp3.0\BANKAPP.AssemblyInfoInputs.cache
+C:\Users\Alain\Desktop\BANKAPP\BANKAPP\BANKAPP\obj\Debug\netcoreapp3.0\BANKAPP.AssemblyInfo.cs
+C:\Users\Alain\Desktop\BANKAPP\BANKAPP\BANKAPP\obj\Debug\netcoreapp3.0\BANKAPP.dll
+C:\Users\Alain\Desktop\BANKAPP\BANKAPP\BANKAPP\obj\Debug\netcoreapp3.0\BANKAPP.pdb
